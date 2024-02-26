@@ -1,6 +1,6 @@
 # Power BI Dashboard 
 
-Welcome to the Power BI Dashboard Report Repository! This repository contains all the necessary resources to build, deploy, and maintain our interactive and insightful Power BI dashboard reports.
+Welcome to the Power BI Dashboard Report Repository! This repository contains all the necessary resources to build, deploy, and maintain the interactive and insightful Power BI dashboard reports.
 
 ## Overview
 
